@@ -1,0 +1,13 @@
+.content-text{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  text-align: justify;
+}
+.content-text>div>h1{
+  font-weight: bold;
+}
+.doctor-img{
+  width: 100%;
+}
+b{
+  font-weight: 900;
+}
